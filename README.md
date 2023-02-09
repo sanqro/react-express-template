@@ -16,19 +16,19 @@ This is a template for a React and Express project with TypeScript and TailwindC
 
 ## Available Scripts
 
-### Lint
+### Lint:
 
 #### React and Express:
 
 `npm run lint-fix`
 
-### Build
+### Build:
 
 #### React and Express:
 
 `npm run build`
 
-#### Start
+### Start:
 
 #### React:
 
